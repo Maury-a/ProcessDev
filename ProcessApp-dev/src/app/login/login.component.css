@@ -1,4 +1,6 @@
 mat-card{
     width: fit-content;
     height: fit-content;
+    margin:auto;
+    margin-top: 10%;
 }
